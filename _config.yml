@@ -1,7 +1,7 @@
-site: Sidey
+site: Koisuru
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: Koisuru
+description: Koleksi Softsub
 twitter:
   username: #yourusername
   card: summary
@@ -13,6 +13,7 @@ author:
   email: #youremail
   url: #yoururl
 permalink: pretty
+timezone: Asia/Jakarta
 
 baseurl: ""
 
@@ -40,7 +41,10 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /:title
+  category:
+    output: true
+    permalink: /category/:title
   
 defaults:
   -
@@ -60,3 +64,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: Koisuru
+
+url: www.koisuru.my.id

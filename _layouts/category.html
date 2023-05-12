@@ -7,8 +7,7 @@ comments: true
   <h2>{{ page.title }}</h2>
   <p><img src={{ page.coverPhoto }}></p>
   {{ content }}
-  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y.%m.%d - %H:%M" }}</time> &middot;
-    <a href="/category/{{ page.category-link }}">{{ page.category-link }}</a><br>
+  <span class="meta">
     Laporan Kesalahan bisa ke <a href="https://discord.gg/6aZPrn6ndw" target="_blank">Discord</a></span>
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

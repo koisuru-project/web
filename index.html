@@ -1,12 +1,16 @@
 ---
 layout: default
+title: Home
+epsname: Koleksi Softsub
 ---
 
 <section class="posts">
+<h2 style="margin-top: 0"><a class="white pinkhover" href="{{ site.baseurl }}{{ site.posts[0].url }}" style="text-decoration: none;">{{ site.posts[0].title }}</h2>
+<a href="{{ site.baseurl }}{{ site.posts[0].url }}"><p style="margin: .5rem 0;"><img src="{{ site.posts[0].coverPhoto }}"></p></a>
+<hr><br>
 <ul>
 {% for post in site.posts %}
-<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time></li>
 {% endfor %}
 </ul>
 </section>
-

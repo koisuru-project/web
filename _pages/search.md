@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Search
+title: Pencarian
 ---
 
 <style>
@@ -12,12 +12,13 @@ title: Search
 		font-size: normal;
 	    outline: none;
 	    padding: 1rem;
-		background: rgb(236, 237, 238);
+		background: #202020;
 	    width: 100%;
 		-webkit-appearance: none;
 		font-family: inherit;
 		font-size: 100%;
 		border: none;
+		border-radius: 6px;
 	}
 	#results-container {
 		margin: .5rem 0;
@@ -26,7 +27,7 @@ title: Search
 
 <!-- Html Elements for Search -->
 <div id="search-container">
-<input type="text" id="search-input" placeholder="Search...">
+<input type="text" id="search-input" placeholder="Pencarian ...">
 <ol id="results-container"></ol>
 </div>
 
@@ -40,7 +41,7 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
   searchResultTemplate: '<li><a href="{url}" title="{description}">{title}</a></li>',
-  noResultsText: 'No results found',
+  noResultsText: 'Hasil tidak ditemukan.',
   limit: 10,
   fuzzy: false,
   exclude: ['Welcome']

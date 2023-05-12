@@ -1,28 +1,14 @@
 ---
 layout: page
-title: About
+title: Tentang
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+**Perihal rilisan**<br>
+Mulai dari sekarang, grup ini berfokus pada garapan yang sudah ada terjemahannya dan menamai rilisan dengan tag **[Koisuru]**.
 
-### Features
+**[Koisuru]** dipilih karena sesuai dengan fokus utama dari grup ini, yaitu hanya mengambil konten seputar percintaan.
+Kami hanya melakukan sentuhan akhir seperti TLC, Typesetting, KaraFX, sinkronisasi timing, dan perbaikan lainnya.
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+Grup ini bukanlah fansub penerjemah, namun sekadar kolektor softsub dari fansub penerjemah.
 
-### Screenshot
-
-![Screenshot](screenshot.png)
+Kalian bisa menyebutnya sebagai "Muxer".

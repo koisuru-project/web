@@ -1,9 +1,15 @@
 links:
-- title: Writing
+- title: Koisuru
   url: /
-- title: About
-  url: /about
-- title: Search
+- title: Kategori
+  url: /category
+- title: Pencarian
   url: /search
-- title: Rss
-  url: /atom.xml
+- title: Koleksi
+  url: /archive
+- title: Donasi
+  url: https://trakteer.id/animebatchddl
+- title: GitHub
+  url: https://github.com/koisuru-project
+- title: Tentang
+  url: /about
