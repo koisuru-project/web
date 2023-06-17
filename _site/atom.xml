@@ -4,7 +4,7 @@
  <title>Koisuru</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-05-12T19:08:11+07:00</updated>
+ <updated>2023-06-17T14:51:34+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,9 +13,38 @@
 
  
  <entry>
+   <title>Gekijouban Sword Art Online Progressive - Hoshi Naki Yoru no Aria BD</title>
+   <link href="http://localhost:4000/Sword-Art-Online-Progressive-Hoshi-BD"/>
+   <updated>2022-06-17T15:30:00+07:00</updated>
+   <id>http://localhost:4000/Sword-Art-Online-Progressive-Hoshi-BD</id>
+   <content type="html">&lt;p&gt;Rilisan terbaik menurut &lt;a href=&quot;https://sneedex.moe&quot;&gt;SneeDex&lt;/a&gt; dan &lt;a href=&quot;https://releases.moe&quot;&gt;SeaDex&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Video : &lt;a href=&quot;https://nyaa.si/view/1681656&quot;&gt;Legion&lt;/a&gt; (ITABD)&lt;/p&gt;
+
+&lt;p&gt;Audio : Japanese 2.0 Stereo (JPBD)&lt;/p&gt;
+
+&lt;p&gt;Komposisi Edit :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Dialog : Oploverz&lt;/li&gt;
+  &lt;li&gt;SedikitLebihNiat (v1) : VFK&lt;/li&gt;
+  &lt;li&gt;Koisuru (v2) : Masih Pemula&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Download&lt;/p&gt;
+
+&lt;p&gt;BD - Sword Art Online Progressive&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;1080p: &lt;a href=&quot;https://ouo.io/u2Vj9n&quot; target=&quot;_blank&quot;&gt;GoIndex&lt;/a&gt; &lt;a href=&quot;https://ouo.io/oNeb2p&quot; target=&quot;_blank&quot;&gt;Takarir&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Yofukashi no Uta BD (Batch)</title>
    <link href="http://localhost:4000/Yofukashi-no-Uta-BD"/>
-   <updated>2022-04-26T19:36:00+07:00</updated>
+   <updated>2022-05-12T19:36:00+07:00</updated>
    <id>http://localhost:4000/Yofukashi-no-Uta-BD</id>
    <content type="html">&lt;p&gt;Video :
 &lt;a href=&quot;https://nyaa.si/view/1660066&quot;&gt;Zagzad&lt;/a&gt;&lt;/p&gt;

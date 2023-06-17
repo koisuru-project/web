@@ -3,7 +3,7 @@ layout: post
 format: anime
 title: Yofukashi no Uta BD (Batch)
 eps: BD
-date: 2022-04-26 19:36:00+0700
+date: 2022-05-12 19:36:00+0700
 coverPhoto: https://i.slow.pics/RdikRQTm.png
 category: Yofukashi-no-Uta
 category-link: Yofukashi-no-Uta
