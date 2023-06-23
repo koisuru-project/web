@@ -2,7 +2,7 @@
 layout: category
 title: Fairy Tail Final Series
 epsname: Fairy Tail Final Series
-coverPhoto: https://u2.dmhy.org/anidb/images/13295.jpg
+coverPhoto: https://www.fairytail-tv.com/assets/img/top/main/main_pc_180916.jpg
 ---
 
 
