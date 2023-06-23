@@ -3,7 +3,7 @@ layout: post
 format: anime
 title: Gekijouban Sword Art Online Progressive - Hoshi Naki Yoru no Aria BD
 eps: BD
-date: 2022-06-17 15:30:00+0700
+date: 2023-06-17 15:30:00+0700
 coverPhoto: https://lh3.googleusercontent.com/pw/AL9nZEXKm9jaot7v80FGw91805_do0KU23deWzRWylw44LbFN3DMvWjRQUITtCt5AG5FbCywgTjV6DJ5PW0X2RDQ88ZdkJDebmc2Mk2I3QHaWvTJQXKWuzd2yLRgjM18C0hcH-9aaf3BiN8Y3K1I4TxneCHM=w0-h0-no
 category: Sword-Art-Online-Progressive
 category-link: Sword-Art-Online-Progressive
