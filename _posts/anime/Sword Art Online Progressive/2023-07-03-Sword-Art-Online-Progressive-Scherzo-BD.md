@@ -10,6 +10,8 @@ category-link: Sword-Art-Online-Progressive
 epsname: Sword Art Online Progressive - Kuraki Yuuyami no Scherzo
 ---
 
+![](https://p.ihateani.me/ahxavbby.mp4)
+
 Video :
 [Beatrice-Raws](https://nyaa.si/view/1685626)
 
