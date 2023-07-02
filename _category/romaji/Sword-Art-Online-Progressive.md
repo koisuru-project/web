@@ -2,7 +2,7 @@
 layout: category
 title: Sword Art Online -Progressive-
 epsname: Sword Art Online Progressive
-coverPhoto: https://s2.loli.net/2022/07/07/qgnlfVyYXx83ALd.jpg
+coverPhoto: https://m.media-amazon.com/images/I/71nR7DpWZfL._AC_SL1024_.jpg
 ---
 
 
